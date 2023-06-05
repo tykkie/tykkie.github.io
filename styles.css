@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Metropolis';
+    src: url('/Users/kaungsetnaing/Desktop/MY FX/Fonts/metropolis/Metropolis-Regular.otf') format('opentype');
+  }
+
+  p {
+    font-family: 'Metropolis', sans-serif;
+  }
+  
